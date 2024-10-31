@@ -1,0 +1,21 @@
+<BEVERAGES>
+    <BEVERAGE>
+        <DNAME>Cappuccino</DNAME>
+        <DCOMP>steamed with frothed milk</DCOMP>
+        <DCATEGORY>coffee</DCATEGORY>
+    </BEVERAGE>
+</BEVERAGES>
+<BEVERAGES>
+    <BEVERAGE>
+        <DNAME>Espresso</DNAME>
+        <DCOMP>steamed</DCOMP>
+        <DCATEGORY>coffee</DCATEGORY>
+    </BEVERAGE>
+</BEVERAGES>
+<BEVERAGES>
+    <BEVERAGE>
+        <DNAME>Latte</DNAME>
+        <DCOMP>steamed with milk</DCOMP>
+        <DCATEGORY>coffee</DCATEGORY>
+    </BEVERAGE>
+</BEVERAGES>

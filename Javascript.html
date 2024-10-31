@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Form Processing</title>
+        <script>
+            //Declarations
+        var mystr ="";
+            var hw = "";
+            
+            /*
+             * line 1
+             * line 2
+             * line 3
+            */
+        function printMe(mystr){
+           console.log('Check One ' + mystr);
+            hw = mystr;
+            console.log('Check Two ' + hw);
+            alert('Computer says ' + hw);
+        }
+        </script>
+    </head>
+    <body>
+    <form name="firstform" id="form1" method="get" action="javascript:printMe(this.saying.value);">
+        <input type="text" size="100" name="saying" id="saying" value="Enter your saying">
+        <input type="submit" value="Yo! Click Here">
+         </form>
+    </body>
+</html>

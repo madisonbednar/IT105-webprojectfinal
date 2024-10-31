@@ -1,0 +1,21 @@
+<SERVICES>
+    <SERVICE>
+        <DNAME>Mountain Lion</DNAME>
+        <DCOMP>latte with vanilla cold foam</DCOMP>
+        <DCATEGORY>coffee</DCATEGORY>
+    </SERVICE>
+</SERVICES>
+<SERVICES>
+    <SERVICE>
+        <DNAME>Scaling Smoothie</DNAME>
+        <DCOMP>yogurt, strawberries, bananas</DCOMP>
+        <DCATEGORY>smoothie</DCATEGORY>
+    </SERVICE>
+</SERVICES>
+<SERVICES>
+    <SERVICE>
+        <DNAME>Top Roping Tea</DNAME>
+        <DCOMP>hot or iced black tea</DCOMP>
+        <DCATEGORY>tea</DCATEGORY>
+    </SERVICE>
+</SERVICES>
