@@ -1,0 +1,31 @@
+<SERVICES>
+    <SERVICE>
+        <DNAME>Mountain Lion</DNAME>
+        <DCOMP>Latte w/ Vanilla Cold Foam</DCOMP>
+        <DCATEGORY>Coffee</DCATEGORY>
+    </SERVICE>
+    
+    <SERVICE>
+        <DNAME>Caming Cappuccino</DNAME>
+        <DCOMP>Caramel or Vanilla Flavor</DCOMP>
+        <DCATEGORY>Coffee</DCATEGORY>
+    </SERVICE>
+
+    <SERVICE>
+        <DNAME>Scaling Smoothie</DNAME>
+        <DCOMP>Strawberry Banana</DCOMP>
+        <DCATEGORY>Smoothie</DCATEGORY>
+    </SERVICE>
+
+    <SERVICE>
+        <DNAME>Top Roping Tea</DNAME>
+        <DCOMP>Hot or Iced Black Tea</DCOMP>
+        <DCATEGORY>Tea</DCATEGORY>
+    </SERVICE>
+    
+    <SERVICE>
+        <DNAME>Camalot Chai</DNAME>
+        <DCOMP>Pumpkin Chai</DCOMP>
+        <DCATEGORY>Tea</DCATEGORY>
+    </SERVICE>
+</SERVICES>
