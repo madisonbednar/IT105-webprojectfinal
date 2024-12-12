@@ -1,36 +1,24 @@
 [{
-   "adventurename":"Seneca Rocks",
-   "adventuredate":"July 14, 2024",
-   "adventurephoto":"seneca.png",
-   "customername":"Denver",
-   "customerquote":"Amazing",
-   "excurstionstmt":"Very cool",
-   "descriptionfile":"Seneca Rocks provides climbers a wide array of sport and traditional climbs."
+   "drinkname":"Mountain Lion Latte",
+   "customername":"Michael",
+   "customerquote":"Delicious!",
+   "descriptionfile":"This Latte with vanilla cold foam was the best pick me up before my climb."
 },
 {
-   "adventurename":"Red River Gorge",
-   "adventuredate":"June 14, 202",
-   "adventurephoto":"rrg.png",
-   "customername":"Marie",
-   "customerquote":"Fantastic",
-   "excurstionstmt":"Beautiful trip",
-   "descriptionfile":"Premier sport climbing area in eastern Kentucky."
+   "drinkname":"Caming Cappuccino",
+   "customername":"Glenda",
+   "customerquote":"Scrumpcious!",
+   "descriptionfile":"The sweet carmel flavoring really satisfied my taste buds."
 },
 {
-   "adventurename":"New River Gorge",
-   "adventuredate":"August 14, 2024",
-   "adventurephoto":"newrg.png",
-   "customername":"Jon",
-   "customerquote":"Righteous",
-   "excurstionstmt":"Wild and Wonderful",
-   "descriptionfile":"Southern West Virginia haven for white water rafters and climbers. Wide array of bolted sport climbs."
+   "drinkname":"Scaling Smoothie",
+   "customername":"Braden",
+   "customerquote":"Delightful!",
+   "descriptionfile":"The combination of strawberry and banana was genius."
 },
 {
-   "adventurename":"Shawangunk",
-   "adventuredate":"September 14, 2024",
-   "adventurephoto":"gunks.png",
-   "customername":"Frank",
+   "adventurename":"Camalot Chai",
+   "customername":"Tom",
    "customerquote":"Whoa",
-   "excurstionstmt":"Epic trip",
-   "descriptionfile":"Finest climbing in southern New York.  Enjoy the New Paltz area - history and local shops."
+   "descriptionfile":"This was the best chai I have ever tasted."
 }]
