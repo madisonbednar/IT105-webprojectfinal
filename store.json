@@ -1,0 +1,24 @@
+[{
+   "itemname":"Mug",
+   "customername":"Evan",
+   "customerquote":"Handy!",
+   "descriptionfile":"This mug made drinking my favorite drink so easy."
+},
+{
+   "itemname":"Tshirt",
+   "customername":"Jim",
+   "customerquote":"Fashionable",
+   "descriptionfile":"I love the style and fit of this shirt."
+},
+{
+   "itemname":"Thermos",
+   "customername":"Jenna",
+   "customerquote":"Nifty",
+   "descriptionfile":"This thermos was so perfect for keeping my beverage warm during the whole climb."
+},
+{
+   "itemname":"Backpack",
+   "customername":"Tim",
+   "customerquote":"Durable",
+   "descriptionfile":"This was the best backpack I have ever used to hike."
+}]
